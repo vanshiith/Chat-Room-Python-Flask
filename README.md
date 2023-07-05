@@ -1,1 +1,1 @@
-This is a Web app created using python and flask. A chatroom that uses flask-socketio for realtime communication in the chat app.
+This is a Web app created using python and flask. A chatroom that uses flask-socketio for realtime communication, low latency btween client and server in the chat app.
